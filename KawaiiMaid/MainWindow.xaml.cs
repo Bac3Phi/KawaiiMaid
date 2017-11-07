@@ -41,12 +41,12 @@ namespace KawaiiMaid
 
         private void Image_MouseLeave(object sender, MouseEventArgs e)
         {
-            img.Source = new BitmapImage(new Uri(@"F:\UIT\girl2\girl3\pose2\sad.png"));
+            img.Source = new BitmapImage(new Uri(@"F:\UIT\GIT\KawaiiMaid\KawaiiMaid\Resources\serious.png"));
         }
 
         private void img_MouseMove(object sender, MouseEventArgs e)
         {
-            img.Source = new BitmapImage(new Uri(@"F:\UIT\GIT\KawaiiMaid\KawaiiMaid\Resources\serious.png"));
+            img.Source = new BitmapImage(new Uri(@"F:\UIT\GIT\KawaiiMaid\KawaiiMaid\Resources\seriousb.png"));
         }
 
         private void img_MouseDown(object sender, MouseButtonEventArgs e)
@@ -58,6 +58,23 @@ namespace KawaiiMaid
         {
             img.Source = new BitmapImage(new Uri(@"F:\UIT\GIT\KawaiiMaid\KawaiiMaid\Resources\happy2.png"));
 
+        }
+
+
+
+        private void MenuItem1_1_OnClick(object sender, RoutedEventArgs e)
+        {
+            img.Source = new BitmapImage(new Uri(@"F:\UIT\GIT\KawaiiMaid\KawaiiMaid\Resources\surprised1.png"));
+        }
+
+        private void MenuItem1_2_OnClick(object sender, RoutedEventArgs e)
+        {
+            img.Source = new BitmapImage(new Uri(@"F:\UIT\GIT\KawaiiMaid\KawaiiMaid\Resources\surprised1b.png"));
+        }
+
+        private void MenuItem1_3_OnClick(object sender, RoutedEventArgs e)
+        {
+            img.Source = new BitmapImage(new Uri(@"F:\UIT\GIT\KawaiiMaid\KawaiiMaid\Resources\surprised2b.png"));
         }
     }
 }
