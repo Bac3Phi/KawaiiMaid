@@ -1,0 +1,14 @@
+F:\UIT\GIT\KawaiiMaid\KawaiiMaid\bin\Debug\KawaiiMaid.exe.config
+F:\UIT\GIT\KawaiiMaid\KawaiiMaid\bin\Debug\KawaiiMaid.exe
+F:\UIT\GIT\KawaiiMaid\KawaiiMaid\bin\Debug\KawaiiMaid.pdb
+F:\UIT\GIT\KawaiiMaid\KawaiiMaid\obj\Debug\KawaiiMaid.csprojResolveAssemblyReference.cache
+F:\UIT\GIT\KawaiiMaid\KawaiiMaid\obj\Debug\MainWindow.g.cs
+F:\UIT\GIT\KawaiiMaid\KawaiiMaid\obj\Debug\App.g.cs
+F:\UIT\GIT\KawaiiMaid\KawaiiMaid\obj\Debug\KawaiiMaid_MarkupCompile.cache
+F:\UIT\GIT\KawaiiMaid\KawaiiMaid\obj\Debug\MainWindow.baml
+F:\UIT\GIT\KawaiiMaid\KawaiiMaid\obj\Debug\KawaiiMaid.g.resources
+F:\UIT\GIT\KawaiiMaid\KawaiiMaid\obj\Debug\KawaiiMaid.Properties.Resources.resources
+F:\UIT\GIT\KawaiiMaid\KawaiiMaid\obj\Debug\KawaiiMaid.csproj.GenerateResource.Cache
+F:\UIT\GIT\KawaiiMaid\KawaiiMaid\obj\Debug\KawaiiMaid.csproj.CoreCompileInputs.cache
+F:\UIT\GIT\KawaiiMaid\KawaiiMaid\obj\Debug\KawaiiMaid.exe
+F:\UIT\GIT\KawaiiMaid\KawaiiMaid\obj\Debug\KawaiiMaid.pdb
